@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EnfecAssignment</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="lat">Lat</string>
+    <string name="lng">Long</string>
+    <string name="company">Company</string>
+</resources>
